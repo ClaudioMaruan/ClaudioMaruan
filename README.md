@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="600px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ClaudioMaruan&show_icons=true&count_private=true&hide_border=true&title_color=990101&icon_color=990101&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   
-<img width="49%" height="400px" src="https://wakatime.com/share/@5f2a49a7-6d65-4aca-9dfa-e52351c12097/0ef3653c-4723-4d53-aee4-e7249cc54ad7.svg" >
+<img width="49%" height="400px" src="https://wakatime.com/share/@5f2a49a7-6d65-4aca-9dfa-e52351c12097/0d41c9f2-c415-4e0a-bb8c-b3bbc7eb5fef.svg" >
 
 
 <!--START_SECTION:waka-->
