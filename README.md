@@ -11,15 +11,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+ ### Other Profiles
 
-
-<div align="left">  
-<a href="https://www.behance.net/claudiomaruan" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"</a>
-</div> 
-  
-<div align="left">  
-<a href="https://www.linkedin.com/in/claudio-m-963731135/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://br.linkedin.com/in/claudio-m-963731135)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/claudiomaruan)
  
 ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
